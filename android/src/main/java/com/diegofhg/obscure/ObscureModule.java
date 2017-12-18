@@ -1,4 +1,4 @@
-package diegofhg;
+package com.diegofhg.obscure;
 
 import android.app.Activity;
 import android.view.WindowManager;

@@ -1,4 +1,4 @@
-package diegofhg;
+package com.diegofhg.obscure;
 
 import java.util.Arrays;
 import java.util.Collections;
