@@ -1,6 +1,6 @@
 {
   "name": "react-native-obscure",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A react native android module for obscuring applications when switching applications and preventing taking screenshots of the application.",
   "main": "index.js",
   "keywords": [
