@@ -1,13 +1,17 @@
 {
   "name": "react-native-obscure",
   "version": "1.0.0",
-  "description": "",
+  "description": "A react native android module for obscuring applications when switching applications and preventing taking screenshots of the application.",
   "main": "index.js",
   "keywords": [
     "react-native"
   ],
-  "author": "Diego Francisco",
+  "author": "Diego Francisco H. <diegofranciscoh@hotmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DiegoFranciscoHG/react-native-obscure.git"
+  },
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
