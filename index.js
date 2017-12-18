@@ -6,7 +6,7 @@ export default class Obscure extends React.Component {
 
   static activateObscure() {
     if (!Obscure.isObscureActive) {
-      NativeModules.FlagSecure.activateObscure();
+      NativeModules.Obscure.activateObscure();
       FlagSecure.isFlagSecureActive = true;
     }
   }
