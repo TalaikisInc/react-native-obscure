@@ -1,0 +1,14 @@
+{
+  "name": "react-native-obscure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Diego Francisco",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
