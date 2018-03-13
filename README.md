@@ -28,8 +28,8 @@ $ react-native link react-native-obscure
 
 #### Android
 
-1. Open up `android/app/src/main/java/[...]/MainActivity.java`
-  - Add `import diegofhg.ObscurePackage;` to the imports at the top of the file
+1. Open up `android/app/src/main/java/[...]/MainApplication.java`
+  - Add `import com.diegofhg.obscure.ObscurePackage;` to the imports at the top of the file
   - Add `new ObscurePackage()` to the list returned by the `getPackages()` method
 2. Append the following lines to `android/settings.gradle`:
   	```
