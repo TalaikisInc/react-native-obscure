@@ -1,7 +1,7 @@
 # __react-native-obscure__
 
 # NOTICE
-This repository will not longer be mantained, because I don't use React Native anymore. Feel free to fork and mantain it. 
+This repository will not longer be maintained, because I don't use React Native anymore. Feel free to fork it and continue to develop/maintain it.
 
 ---
 
