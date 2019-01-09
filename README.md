@@ -1,7 +1,9 @@
 # __react-native-obscure__
 
 # NOTICE
-This repository will be not longer mantained, because I don't use React Native anymore. Feel free to fork and mantain it. 
+This repository will not longer be mantained, because I don't use React Native anymore. Feel free to fork and mantain it. 
+
+---
 
 A react native android module for obscuring applications when switching applications and preventing taking screenshots of the application.
 
