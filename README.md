@@ -1,7 +1,8 @@
 # __react-native-obscure__
 
 # NOTICE
-This repository will not longer be maintained, because I don't use React Native anymore. Feel free to fork it and continue to develop/maintain it.
+
+This fork updates RN to 0.60.5, build tools 28.
 
 ---
 
@@ -12,7 +13,7 @@ A react native android module for obscuring applications when switching applicat
 #### NPM
 
 ```
-$ npm install react-native-obscure --save
+$ npm install @talaikis/react-native-obscure --save
 ```
 
 #### Yarn
@@ -25,26 +26,7 @@ $ yarn add react-native-obscure
 
 ### Mostly automatic installation
 
-```
-$ react-native link react-native-obscure
-```
-
-### Manual installation
-
-#### Android
-
-1. Open up `android/app/src/main/java/[...]/MainApplication.java`
-  - Add `import com.diegofhg.obscure.ObscurePackage;` to the imports at the top of the file
-  - Add `new ObscurePackage()` to the list returned by the `getPackages()` method
-2. Append the following lines to `android/settings.gradle`:
-  	```
-  	include ':react-native-obscure'
-  	project(':react-native-obscure').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-obscure/android')
-  	```
-3. Insert the following lines inside the dependencies block in `android/app/build.gradle`:
-  	```
-      compile project(':react-native-obscure')
-  	```
+Nothing to do.
 
 ## Usage
 
